@@ -1,12 +1,20 @@
 {
-  "name": "keymaster",
+  "author": {
+    "name": "Thomas Fuchs",
+    "email": "thomas@slash7.com",
+    "url": "http://mir.aculo.us"
+  },
+  "bugs": {
+    "url": "https://github.com/madrobby/keymaster/issues"
+  },
   "description": "library for defining and dispatching keyboard shortcuts",
-  "version": "1.6.3",
-  "author": "Thomas Fuchs <thomas@slash7.com> (http://mir.aculo.us)",
+  "homepage": "https://github.com/madrobby/keymaster#readme",
+  "license": "MIT",
+  "main": "./keymaster.js",
+  "name": "keymaster",
   "repository": {
     "type": "git",
-    "url": "https://github.com/madrobby/keymaster"
+    "url": "git+https://github.com/madrobby/keymaster.git"
   },
-  "main": "./keymaster.js",
-  "license": "MIT"
+  "version": "1.6.3"
 }
